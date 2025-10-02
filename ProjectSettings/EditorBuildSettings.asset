@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/_Proyecto/Escenas/Test.unity
+    guid: 1cbd67e5c158bbb44a0fef33bf339b6d
+  - enabled: 1
+    path: Assets/_Proyecto/Escenas/Shooting RangeMR target.unity
+    guid: 587d9eb16cffa9f4aa179dbf38b2fdea
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c8d12542e3a597d4791c5b41c83e80b8, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
